@@ -1,0 +1,20 @@
+{
+  "features": {
+    "LocalizationPatches": false,
+    "MechLabFixFeature": false,
+    "LoadFixes": false,
+    "NoSalvageSoftlock": false,
+    "DataLoaderGetEntryCheck": false,
+    "ShopTabLagFix": false,
+    "ContractLagFix": true,
+    "EnableLoggingDuringLoads": false,
+    "ExtraLogging": false,
+    "ShaderDependencyOverride": false,
+    "DisableDeployAudio": false,
+    "RemovedFlashpointFix": false,
+    "DisableSimAnimations": false,
+    "RemovedContractsFix": false,
+    "EnableConsole": false
+  },
+  "WantContractsLagFixVerify": false
+}

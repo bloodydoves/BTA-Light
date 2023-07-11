@@ -1,0 +1,56 @@
+{
+	"debug": true,
+	"trace": true,
+	"minPoints": -5,
+	"maxPoints": 20,
+	"points": {
+		"victory": 1,
+		"retreat": -1,
+		"defeat": -3,
+		"pilotInjured": -1,
+		"pilotKilled": -5,
+		"mechDestroyed": -3,
+		"vehicleDestroyed": -1,
+		"baDestroyed": -1
+	},
+	"baseEffectData": {
+		"durationData": {
+			"duration": -1,
+			"stackLimit": 1
+		},
+		"targetingData": {
+			"effectTriggerType": "Passive",
+				"effectTargetType": "Creator",
+				"showInStatusPanel": false,
+				"showInTargetPreview": false
+		},
+		"effectType": "StatisticEffect",
+		"statisticData": {
+			"statName": "AccuracyModifier",
+			"operation": "Float_Add",
+			"modValue": "0.0",
+			"modType": "System.Single"
+		},
+		"nature": "Buff"
+	},
+	"EnemyEffectsPerPoint": [
+		{
+			"statName": "DamageReductionMultiplierAll",
+			"operation": "Float_Multiply",
+			"modValue": 0.99
+		},
+		{
+			"statName": "AccuracyModifier",
+			"operation": "Float_Add",
+			"modValue": -0.25
+		},
+		{
+			"statName": "CACAoEDamageMult",
+			"operation": "Float_Add",
+			"modValue": "-0.025"
+		}
+	],
+	"SelfEffectsPerPoint": [],
+	"ContractDifficulty": {},
+	"IgnoreContracts": []
+}

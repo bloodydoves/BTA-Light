@@ -1,0 +1,38 @@
+{
+  "Description": {
+    "Id": "DesignMaskAridDustStorm",
+    "Name": "Dust Storm",
+    "Details": "Sensor range and visibility is reduced to 60% of normal, and all units gain +2 defense due to poor visibility. Units take 20% more stability damage due to strong winds.",
+    "Icon": "raining-martian"
+  },
+  "targetabilityModifier": 2,
+  "heatSinkMultiplier": 0.85,
+  "visibilityMultiplier": 0.6,
+  "signatureMultiplier": 0.6,
+  "stickyEffect": {
+    "durationData": {
+      "duration": -1,
+      "stackLimit": 1
+    },
+    "targetingData": {
+      "effectTriggerType": "Passive",
+        "effectTargetType": "Creator",
+        "showInStatusPanel": false,
+        "showInTargetPreview": false
+    },
+    "effectType": "StatisticEffect",
+    "Description": {
+      "Id": "DustStormStability",
+      "Name": "Dust Storm Stability Damage",
+      "Details": "",
+      "Icon": ""
+    },
+    "statisticData": {
+		"statName": "ReceivedInstabilityMultiplier",
+		"operation": "Float_Multiply",
+		"modValue": "1.2",
+		"modType": "System.Single"
+    },
+    "nature": "Buff"
+  }
+}

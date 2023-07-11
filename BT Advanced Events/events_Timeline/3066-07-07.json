@@ -1,0 +1,90 @@
+{
+	"Description": {
+		"Id": "3066-07-07",
+		"Name": "MercNews Broadcast",
+		"Details": "DUKE TANCRED, ARDAN SORTEK INVADE NEW AVALON!\r\n\n\n[[DM.BaseDescriptionDefs[LoreNewAvalon],New Avalon]], [[DM.BaseDescriptionDefs[LoreFedCom],Federated Commonwealth]]:  On June 30, Duke [[DM.BaseDescriptionDefs[TBoneLoreTancredSandoval],Tancred]]'s Second [[DM.BaseDescriptionDefs[LoreRobinsonRgr],Robinson Rangers]], First [[DM.BaseDescriptionDefs[LoreCrucisLancers],Crucis Lancers]] and [[DM.BaseDescriptionDefs[LoreDavionGuards],Davion Heavy Guards]] made landing on the continent of Brunswick, followed a week later by Field Marshal [[DM.BaseDescriptionDefs[LoreArdanSortek],Ardan Sortek]] with the Second [[DM.BaseDescriptionDefs[LoreCetiHussar],Ceti Hussars]] and the [[DM.BaseDescriptionDefs[LoreDavionGuards],Davion Light Guards]].  Defending Archon-Princess [[DM.BaseDescriptionDefs[LoreKatherineSteiner],Katrina Steiner]], the [[DM.BaseDescriptionDefs[LoreLoyalist],Loyalists]] are being led by Marshal of the Armies [[DM.BaseDescriptionDefs[LoreJacksonDavion],Jackson Davion]], and included the Nineteenth [[DM.BaseDescriptionDefs[LoreArcturanGuard],Arcturan Guards]], Tenth [[DM.BaseDescriptionDefs[LoreDLC],Deneb Light Cavalry]], Fifth [[DM.BaseDescriptionDefs[LoreDonegalGuards],Donegal Guard]], Third [[DM.BaseDescriptionDefs[LoreRobinsonRgr],Robinson Rangers]], Seventeenth [[DM.BaseDescriptionDefs[LoreAvalonHussars],Avalon Hussars]], the Remagen [[DM.BaseDescriptionDefs[LoreCrMM],CMM]] and [[DM.Factions[faction_ComStar],ComStar]]'s 299th Division.\n\nThis now begins what is considered by trillions the largest and most important battle of the Federated Commonwealth Civil War.",
+		"Icon": "uixTxrSpot_ComputerScreen.png"
+	},
+	"Scope": "Company",
+	"Weight": 0,
+	"Requirements": {
+		"Scope": "Company",
+		"RequirementTags": {
+			"items": "mercnews_subscription",
+			"tagSetSourceFile": ""
+		},
+		"ExclusionTags": {
+			"items": null,
+			"tagSetSourceFile": ""
+		},
+		"RequirementComparisons": []
+	},
+	"AdditionalRequirements": [],
+	"AdditionalObjects": [],
+	"Options": [
+		{
+			"Description": {
+				"Id": "continue",
+				"Name": "Continue.",
+				"Details": "Broadcast continues",
+				"Icon": ""
+			},
+			"RequirementList": [],
+			"ResultSets": [
+				{
+					"Description": {
+						"Id": "continue1",
+						"Name": "MercNews Broadcast",
+						"Details": "[[DM.BaseDescriptionDefs[LoreChaosMarch],CHAOS MARCH]] UPDATE!\r\n\n\nSmall World, [[DM.BaseDescriptionDefs[LoreFedCom],Federated Commonwealth]]: When the [[DM.BaseDescriptionDefs[LoreLoyalist],Loyalist]] Seventeenth [[DM.BaseDescriptionDefs[LoreArcturanGuard],Arcturan Guard]] landed on Small World, they believed this was a stop-over before continuing to [[DM.BaseDescriptionDefs[LoreNewAvalon],New Avalon]].  The Arcturan Guards were caught by complete surprise when the planetary militia, led by mercenary command [[DM.BaseDescriptionDefs[LoreSmithons],Smithson's Chinese Bandits]], attacked the Seventeenth while they were landing.  The Arcturans were quickly reinforced by the Loyalist Archenar [[DM.BaseDescriptionDefs[LoreSMM],SMM]], and Smithson's Chinese Bandits are reported to be on the run.  Pro-Victor General Koenig has made an open call for mercenaries to join the Fifth [[DM.BaseDescriptionDefs[LoreSyrtisFusiliers],Syrtis Fusiliers]] as they reinforce the Chinese Bandits.  Veteran mercenaries [[DM.BaseDescriptionDefs[LoreWilsonsH],Wilson's Hussars]], lured by favourable salvage rights and preferential treatment for future [[DM.BaseDescriptionDefs[LoreDavionAFFC],AFFC]] contracts, have already signed with Koenig and are en-route to the planet.",
+						"Icon": ""
+					},
+					"Weight": 100,
+					"Results": [
+						{
+							"Scope": "",
+							"Requirements": null,
+							"AddedTags": {
+								"items": [
+							"WIIC_give_starsystemdef_SmallWorld_to_Steiner",
+							"WIIC_give_starsystemdef_NewAvalon_to_Steiner",
+							"WIIC_Davion_attacks_starsystemdef_NewAvalon",
+							"WIIC_SmithsonsChineseBandits_attacks_starsystemdef_SmallWorld",
+							"WIIC_set_starsystemdef_SmallWorld_defender_strength_15",
+							"WIIC_set_starsystemdef_SmallWorld_attacker_strength_25",
+							"WIIC_set_starsystemdef_NewAvalon_defender_strength_50",
+							"WIIC_set_starsystemdef_NewAvalon_attacker_strength_50",
+							"WIIC_give_starsystemdef_SmallWorld_to_Davion_on_attacker_win"
+							],
+								"tagSetSourceFile": ""
+							},
+							"RemovedTags": {
+								"items": null,
+								"tagSetSourceFile": ""
+							},
+							"Stats": null,
+							"Actions": null,
+							"ForceEvents": null,
+							"TemporaryResult": false,
+							"ResultDuration": 0
+						}
+					]
+				}
+			],
+			"Requirements": {
+				"Scope": "Company",
+				"RequirementTags": {
+					"items": null,
+					"tagSetSourceFile": ""
+				},
+				"ExclusionTags": {
+					"items": null,
+					"tagSetSourceFile": ""
+				},
+				"RequirementComparisons": []
+			}
+		}
+	],
+	"PublishState": "PUBLISHED",
+	"ValidationState": "UNTESTED",
+	"EventType": "UNSELECTABLE"
+}

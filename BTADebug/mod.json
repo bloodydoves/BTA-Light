@@ -1,0 +1,11 @@
+{
+	"Name": "BTA Debug",
+	"Enabled": true,
+	"Description": "BTA's Debug",
+	"Author": "LadyAlekto",
+	"Website": "",
+	"Contact": "fakeemail@fakeemail.com",
+	"Manifest": [],
+	"DependsOn": [],
+	"ConflictsWith": []
+}

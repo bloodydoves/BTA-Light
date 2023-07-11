@@ -1,0 +1,30 @@
+{
+	"Name": "TrainingMissions",
+	"DLL": "TrainingMissions.dll",
+	"Hidden": true,
+	"Version": "1.1.0.0",
+	"Description": "",
+	"Author": "T-Bone",
+	"Website": "https://github.com/ajkroeg/TrainingMissions",
+	"ConflictsWith": [],
+	"DependsOn": [
+		"IRBTModUtils"
+	],
+	"CustomResourceTypes": [],
+	"Settings": {
+		"enableLogging": true,
+		"showRestoreNotification": true,
+		"enableSimulationHotKey": true,
+		"TrainingContractIDs": {
+			"CaptureEscort_BTA_Training": "ALWAYS",
+			"SimpleBattle_BTAThrowdown": "ALWAYS",
+			"Assassinate_Kringle": "ALWAYS"
+		},
+		"SwapUnitsWithAIContractIDs": {},
+		"DoppelgangerContractIDs": {},
+		"DisallowedRecoveryTags": [
+			"unit_noncontrollableTank"
+		]
+	},
+	"Manifest": []
+}
