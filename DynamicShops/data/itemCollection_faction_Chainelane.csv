@@ -9,9 +9,6 @@ Ammo_AmmunitionBox_Generic_LRIFLE,AmmunitionBox,0,1
 Ammo_AmmunitionBox_Generic_LRIFLE_half,AmmunitionBox,0,1
 Ammo_AmmunitionBox_Generic_MRIFLE,AmmunitionBox,0,1
 Ammo_AmmunitionBox_Generic_MRIFLE_half,AmmunitionBox,0,1
-Weapon_Autocannon_Light_Cannon,Weapon,0,1
-Weapon_Autocannon_Medium_Cannon,Weapon,0,1
-Weapon_Autocannon_Heavy_Cannon,Weapon,0,1
 Weapon_MECHMORTAR_1,Weapon,0,1
 Weapon_MECHMORTAR_2,Weapon,0,1
 Weapon_MECHMORTAR_4,Weapon,0,1
@@ -33,13 +30,3 @@ Ammo_AmmunitionBox_Generic_Mortar_half,AmmunitionBox,0,1
 Ammo_AmmunitionBox_Guided_Mortar_half,AmmunitionBox,0,1
 Ammo_AmmunitionBox_Inferno_Mortar_half,AmmunitionBox,0,1
 Ammo_AmmunitionBox_Smoke_Mortar_half,AmmunitionBox,0,1
-mechdef_crosscut_ED-X2,Mech,0,1
-mechdef_crosscut_ED-X4D,Mech,0,1
-mechdef_crosscut_ED-X6,Mech,0,1
-mechdef_crosscut_ED-X7,Mech,0,1
-Gear_Attachment_MortarFCS,Upgrade,0,1
-Gear_Attachment_PeripheryFCS,Upgrade,0,1
-Gear_Attachment_AmmoFeed_Cannon,Upgrade,0,1
-Gear_Attachment_RevolverRifle,Upgrade,0,1
-Gear_Contract_Mech_Charger_Chainelane,Upgrade,0,1
-Gear_Airdrop_Beacon_Turret,Upgrade,0,1

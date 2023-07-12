@@ -1,6 +1,5 @@
 itemCollection_faction_Rezak,,,
 BTA_Tribute,Reference,1,10
-BTA_Beacons,Reference,1,10
 BTA_BribePirates,Reference,1,10
 BTA_BlackMarket_Mechs,Reference,3,5
 BTA_Blazer,Reference,2,7
@@ -18,4 +17,3 @@ BTA_Ammo_Rare,Reference,6,8
 ItemCollection_Internals_IS_Rare,Reference,3,10
 BTA_Upgrades,Reference,2,5
 BTA_SLDF_Mechs,Reference,1,2
-Gear_Contract_Mech_Corsair_Pirate,Upgrade,0,1
