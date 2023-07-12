@@ -8,7 +8,6 @@
   "OverallUnits": 8,
   "DropLances": [
     "default_default_lance_mech",
-	"default_default_lance_tank",
-    "default_default_lance_ba"
+	"default_default_lance_tank"
   ]
 }

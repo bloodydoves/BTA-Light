@@ -6,7 +6,7 @@
 		"UIName": "",
 		"Id": "argoUpgrade_mechBay_expandedDrop1",
 		"Name": "Mech Drop 3",
-		"Details": "Increases the company's ability to field additional mechs. <b><color=#F79232>Increases Mech-Only Slots to 3 and increases Drop Weight Limit by 50 tons.</color></b>",
+		"Details": "Increases the company's ability to field additional mechs. <b><color=#F79232>Increases Lance 2 Slots to 3 and increases Drop Weight Limit by 50 tons.</color></b>",
 		"Icon": "uixSvgIcon_shipUpgrade_automation"
 	},
 	"Illustration": "uixTxrSpot_YangWorking",
@@ -34,7 +34,7 @@
 	"Stats": [
 		{
 			"typeString": "System.Int32",
-			"name": "BiggerDrops_MechOnlySlots",
+			"name": "BiggerDrops_AdditionalMechTankSlots",
 			"value": 1,
 			"valueConstant": ""
 		},

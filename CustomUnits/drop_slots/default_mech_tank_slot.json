@@ -9,14 +9,13 @@
     "can_drop_generic_mech",
 	"can_drop_generic_vehicle"
   ],
-  "SeparateLance": true,
   "combineLanceWith" : [
-	"default_vehicle_slot"
+	"default_mech_slot"
   ],
   "Decorations": [
     "decoration_slot_mech",
 	"decoration_slot_vehicle"
   ],
   "StatName": "BiggerDrops_AdditionalMechTankSlots",
-  "Order": 3
+  "Order": 1
 }

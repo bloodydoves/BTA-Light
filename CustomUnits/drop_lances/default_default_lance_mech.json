@@ -1,16 +1,14 @@
 {
   "Description": {
     "Id": "default_default_lance_mech",
-    "Name": "MECHS",
+    "Name": "ANYTHING 1",
     "Details": "Default lance description",
     "Icon": ""
   },
   "DropSlots": [
-    "default_mech_slot",
-    "default_mech_slot",
-    "default_mech_slot",
-    "default_mech_slot",
-    "default_mech_slot",
-    "default_mech_slot"
+    "default_mech_tank_slot",
+    "default_mech_tank_slot",
+    "default_mech_tank_slot",
+    "default_mech_tank_slot"
   ]
 }
