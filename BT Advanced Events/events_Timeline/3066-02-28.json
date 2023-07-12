@@ -35,7 +35,7 @@
 					"Description": {
 						"Id": "continue1",
 						"Name": "MercNews Broadcast",
-						"Details": "UNREST ON SANCTUARY ALLIANCE HOLDINGS!\r\n\n\nErod's Escape, [[DM.Factions[faction_SanctuaryAlliance],Sanctuary Alliance]] Occupation Zone:\r\n\n\n After several years of occupation by the still-enigmatic Sanctuary Alliance, it seems that the occupants of the once-Taurian worlds held by the Alliance in their Occupation Zone are finally rising against their occupiers. Word of what has been taking place on the occupied worlds is hard to come by but scattered reports indicate ragtag militia forces bearing [[DM.BaseDescriptionDefs[LoreHouseCalderon],House Calderon]] colors and being led by [[DM.BaseDescriptionDefs[LoreChamKithrong],Baron Cham Kithrong]] of the Taurian Defense Force's VI Corps are staging raids against Sanctuary Alliance forces on many of the held worlds. More on this story as it develops.",
+						"Details": "UNREST IN TAURIAN CONCORDAT OUTBACK!\r\n\n\nErod's Escape, [[DM.Factions[faction_TaurianConcordat],Taurian Concordat]] Occupation Zone:\r\n\n\n After several quietly formenting unrest, it seems that the occupants of the Taurian outback worlds finally rising in open protest against Protector Shraplen's rule. Word of what has been taking place is hard to come by due to the revolts but scattered reports indicate ragtag militia forces bearing [[DM.BaseDescriptionDefs[LoreHouseCalderon],House Calderon]] colors and being led by [[DM.BaseDescriptionDefs[LoreChamKithrong],Baron Cham Kithrong]] of the Taurian Defense Force's VI Corps are leading the revolts against Protector Shraplen's forces. More on this story as it develops.",
 						"Icon": ""
 					},
 					"Weight": 100,
