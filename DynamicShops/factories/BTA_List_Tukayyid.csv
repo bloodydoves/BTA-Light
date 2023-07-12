@@ -15,10 +15,7 @@ Weapon_SRM_SRM6_0-STOCK,Weapon,0,10
 Ammo_AmmunitionBox_LBX_CLUSTER_AC10,AmmunitionBox,0,10
 Ammo_AmmunitionBox_LBX_SLUG_AC10,AmmunitionBox,0,10
 Ammo_AmmunitionBox_Generic_GAUSS,AmmunitionBox,0,10
-mechdef_griffin_GRF-6CS,Mech,1,10
 mechdef_highlander_HGN-732,Mech,1,10
-mechdef_hunchback_HBK-2CS4C,Mech,1,10
 mechdef_marauder_MAD-5CS,Mech,1,10
 mechdef_mongoose_MON-66,Mech,1,10
 mechdef_thorn_THE-N,Mech,1,10
-mechdef_decimator_DCI-2X,Mech,1,10

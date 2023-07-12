@@ -11,11 +11,6 @@ Ammo_AmmunitionBox_Generic_GAUSS,AmmunitionBox,0,10
 mechdef_starslayer_STY-3C,Mech,1,10
 mechdef_starslayer_STY-3D,Mech,1,10
 mechdef_thunderhawk_TDK-7KMA,Mech,1,10
-mechdef_thunderhawk_TDK-7S,Mech,1,10
-mechdef_thunderhawk_TDK-7X,Mech,1,10
-mechdef_thunderhawk_TDK-7Y,Mech,1,10
 mechdef_devastator_DVS-2,Mech,1,10
-mechdef_devastator_DVS-3,Mech,1,10
 mechdef_spector_SPR-5F,Mech,1,10
 mechdef_spector_SPR-5S,Mech,1,10
-mechdef_spector_SPR-ST,Mech,1,10

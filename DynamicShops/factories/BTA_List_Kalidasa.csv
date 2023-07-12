@@ -26,10 +26,7 @@ Ammo_AmmunitionBox_LBX_CLUSTER_AC10,AmmunitionBox,0,10
 Ammo_AmmunitionBox_Narc_Beacon,AmmunitionBox,0,10
 mechdef_wasp_WSP-3M,Mech,1,10
 mechdef_perseus_P1-Prime,Mech,1,10
-mechdef_orion_ON2-M,Mech,1,10
 mechdef_hunchback_HBK-4P,Mech,1,10
-mechdef_hunchback_HBK-6N,Mech,1,10
-mechdef_ba_is_standard,Mech,1,10
 vehicledef_APC_HeavyWheeled_LRM,Mech,1,10
 vehicledef_APC_Alsvin,Mech,1,10
 vehicledef_SCORPION_MKII,Mech,1,10

@@ -1,18 +1,6 @@
 [
 	{
 		"conditions": {
-			"tag": "planet_name_macksdustball"
-		},
-		"items": "BTA_List_MacksDustball"
-	},
-	{
-		"conditions": {
-			"tag": "planet_name_astralaustralis"
-		},
-		"items": "BTA_List_AstralAustralis"
-	},
-	{
-		"conditions": {
 			"tag": "planet_name_alphard(mh)"
 		},
 		"items": "BTA_List_Alphard_Marian"
@@ -43,12 +31,6 @@
 	},
 	{
 		"conditions": {
-			"tag": "planet_name_antwerp"
-		},
-		"items": "BTA_List_Antwerp"
-	},
-	{
-		"conditions": {
 			"tag": "planet_name_ingvolstand"
 		},
 		"items": "BTA_List_Ingvolstand"
@@ -58,11 +40,5 @@
 			"tag": "planet_name_rondane"
 		},
 		"items": "BTA_List_Rondane"
-	},
-	{
-		"conditions": {
-			"tag": "planet_name_ebon'send"
-		},
-		"items": "BTA_List_EbonsEnd"
 	}
 ]

@@ -20,12 +20,7 @@ Weapon_MachineGun_MachineGun_0-STOCK,Weapon,0,10
 Weapon_PPC_PPC_0-STOCK,Weapon,0,10
 Weapon_LRM_LRM5_0-STOCK,Weapon,0,10
 mechdef_locust_LCT-3V,Mech,1,10
-mechdef_wasp_WSP-4T,Mech,1,10
-mechdef_wasp_WSP-3L,Mech,1,10
+mechdef_wasp_WSP-1A,Mech,1,10
 mechdef_thunderbolt_TDR-5S,Mech,1,10
 mechdef_warhammer_WHM-6R,Mech,1,10
 mechdef_marauder_MAD-3R,Mech,1,10
-mechdef_toro_TR-A-6,Mech,1,10
-mechdef_toro_TR-A-8,Mech,1,10
-mechdef_hephaestus_HAE-O,Mech,1,10
-mechdef_liberty_LBT-O,Mech,1,10
