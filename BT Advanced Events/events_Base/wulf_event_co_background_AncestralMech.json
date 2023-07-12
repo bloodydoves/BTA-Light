@@ -70,7 +70,7 @@
 							"Actions": [
 								{
 									"Type": "Mech_AddRoster",
-									"value": "mechdef_valkyrie_VLK-AM",
+									"value": "mechdef_valkyrie_VLK-QA",
 									"valueConstant": null,
 									"additionalValues": null
 								}
@@ -107,7 +107,7 @@
 							"Actions": [
 								{
 									"Type": "Mech_AddRoster",
-									"value": "mechdef_stiletto_STL-AM",
+									"value": "mechdef_urbanmech_UM-R60",
 									"valueConstant": null,
 									"additionalValues": null
 								}
@@ -144,7 +144,7 @@
 							"Actions": [
 								{
 									"Type": "Mech_AddRoster",
-									"value": "mechdef_panther_PNT-AM",
+									"value": "mechdef_panther_PNT-9R",
 									"valueConstant": null,
 									"additionalValues": null
 								}
@@ -181,7 +181,7 @@
 							"Actions": [
 								{
 									"Type": "Mech_AddRoster",
-									"value": "mechdef_firebee_FRB-AM",
+									"value": "mechdef_urbanmech_UM-R60L",
 									"valueConstant": null,
 									"additionalValues": null
 								}
@@ -218,7 +218,7 @@
 							"Actions": [
 								{
 									"Type": "Mech_AddRoster",
-									"value": "mechdef_locust_LCT-AM",
+									"value": "mechdef_locust_LCT-1V",
 									"valueConstant": null,
 									"additionalValues": null
 								}
@@ -255,7 +255,7 @@
 							"Actions": [
 								{
 									"Type": "Mech_AddRoster",
-									"value": "mechdef_spider_SDR-AM",
+									"value": "mechdef_spider_SDR-5V",
 									"valueConstant": null,
 									"additionalValues": null
 								}
@@ -292,7 +292,7 @@
 							"Actions": [
 								{
 									"Type": "Mech_AddRoster",
-									"value": "mechdef_nighthawk_NTK-AM",
+									"value": "mechdef_nighthawk_NTK-2Q",
 									"valueConstant": null,
 									"additionalValues": null
 								}
@@ -329,7 +329,7 @@
 							"Actions": [
 								{
 									"Type": "Mech_AddRoster",
-									"value": "mechdef_hornet_HNT-AM",
+									"value": "mechdef_hornet_HNT-151",
 									"valueConstant": null,
 									"additionalValues": null
 								}
@@ -366,7 +366,7 @@
 							"Actions": [
 								{
 									"Type": "Mech_AddRoster",
-									"value": "mechdef_tarantula_ZPH-AM",
+									"value": "mechdef_ostscout_OTT-7J",
 									"valueConstant": null,
 									"additionalValues": null
 								}
@@ -403,7 +403,7 @@
 							"Actions": [
 								{
 									"Type": "Mech_AddRoster",
-									"value": "mechdef_commando_COM-AM",
+									"value": "mechdef_commando_COM-2D",
 									"valueConstant": null,
 									"additionalValues": null
 								}
@@ -440,7 +440,7 @@
 							"Actions": [
 								{
 									"Type": "Mech_AddRoster",
-									"value": "mechdef_toro_TR-A-AM",
+									"value": "mechdef_stinger_STG-3G",
 									"valueConstant": null,
 									"additionalValues": null
 								}
