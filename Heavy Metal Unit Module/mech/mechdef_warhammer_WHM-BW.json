@@ -360,17 +360,7 @@
 			"GUID": null,
 			"DamageLevel": "Functional",
 			"prefabName": null,
-			"hasPrefabName": false,
-			"LocalGUID": "target_PPC_1"
-		},
-		{
-			"MountedLocation": "RightArm",
-			"ComponentDefID": "Gear_Attachment_PPCFCS",
-			"ComponentDefType": "Upgrade",
-			"HardpointSlot": -1,
-			"hasPrefabName": false,
-			"DamageLevel": "Functional",
-			"TargetComponentGUID": "target_PPC_1"
+			"hasPrefabName": false
 		},
 		{
 			"MountedLocation": "RightTorso",
@@ -447,17 +437,7 @@
 			"GUID": null,
 			"DamageLevel": "Functional",
 			"prefabName": null,
-			"hasPrefabName": false,
-			"LocalGUID": "target_PPC_2"
-		},
-		{
-			"MountedLocation": "LeftArm",
-			"ComponentDefID": "Gear_Attachment_PPCFCS",
-			"ComponentDefType": "Upgrade",
-			"HardpointSlot": -1,
-			"hasPrefabName": false,
-			"DamageLevel": "Functional",
-			"TargetComponentGUID": "target_PPC_2"
+			"hasPrefabName": false
 		},
 		{
 			"MountedLocation": "LeftTorso",

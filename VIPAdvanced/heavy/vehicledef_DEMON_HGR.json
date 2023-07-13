@@ -66,16 +66,7 @@
 			"ComponentDefID": "Weapon_Gauss_Heavy_0-STOCK",
 			"ComponentDefType": "Weapon",
 			"HardpointSlot": 0,
-			"DamageLevel": "Functional",
-			"LocalGUID":"target_HGauss_1"
-		},
-		{
-			"MountedLocation": "Front",
-			"ComponentDefID": "Gear_Attachment_GaussFCS",
-			"ComponentDefType": "Upgrade",
-			"HardpointSlot": -1,
-			"DamageLevel": "Functional",
-			"TargetComponentGUID":"target_HGauss_1"
+			"DamageLevel": "Functional"
 		},
 		{
 			"MountedLocation": "Front",
@@ -89,32 +80,14 @@
 			"ComponentDefID": "Weapon_Laser_MediumLaserER_0-STOCK",
 			"ComponentDefType": "Weapon",
 			"HardpointSlot": 0,
-			"DamageLevel": "Functional",
-			"LocalGUID":"target_ERML_1"
-		},
-		{
-			"MountedLocation": "Left",
-			"ComponentDefID": "Gear_Attachment_LaserFCS",
-			"ComponentDefType": "Upgrade",
-			"HardpointSlot": -1,
-			"DamageLevel": "Functional",
-			"TargetComponentGUID":"target_ERML_1"
+			"DamageLevel": "Functional"
 		},
 		{
 			"MountedLocation": "Right",
 			"ComponentDefID": "Weapon_Laser_MediumLaserER_0-STOCK",
 			"ComponentDefType": "Weapon",
 			"HardpointSlot": 0,
-			"DamageLevel": "Functional",
-			"LocalGUID":"target_ERML_2"
-		},
-		{
-			"MountedLocation": "Right",
-			"ComponentDefID": "Gear_Attachment_LaserFCS",
-			"ComponentDefType": "Upgrade",
-			"HardpointSlot": -1,
-			"DamageLevel": "Functional",
-			"TargetComponentGUID":"target_ERML_2"
+			"DamageLevel": "Functional"
 		},
 		{
 			"MountedLocation": "Front",

@@ -213,17 +213,8 @@
             "ComponentDefID": "Weapon_Autocannon_AC10_0-STOCK",
             "ComponentDefType": "Weapon",
             "HardpointSlot": 0,
-            "DamageLevel": "Functional",
-			"LocalGUID":"target_AC10_1"
+            "DamageLevel": "Functional"
         },
-		{
-			"MountedLocation": "Turret",
-			"ComponentDefID": "Gear_Attachment_AutocannonFCS",
-			"ComponentDefType": "Upgrade",
-			"HardpointSlot": -1,
-			"DamageLevel": "Functional",
-			"TargetComponentGUID":"target_AC10_1"
-		},
 		{
 			"ComponentDefID": "Weapon_C3_Master",
 			"ComponentDefType": "Weapon",

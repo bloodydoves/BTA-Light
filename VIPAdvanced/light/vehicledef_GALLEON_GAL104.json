@@ -76,16 +76,7 @@
 			"ComponentDefID": "Weapon_Laser_LargeLaserER_0-STOCK",
 			"ComponentDefType": "Weapon",
 			"HardpointSlot": 0,
-			"DamageLevel": "Functional",
-			"LocalGUID":"target_ERLL_1"
-		},
-		{
-			"MountedLocation": "Turret",
-			"ComponentDefID": "Gear_Attachment_LaserFCS",
-			"ComponentDefType": "Upgrade",
-			"HardpointSlot": -1,
-			"DamageLevel": "Functional",
-			"TargetComponentGUID":"target_ERLL_1"
+			"DamageLevel": "Functional"
 		},
 		{
 			"MountedLocation": "Rear",

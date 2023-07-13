@@ -318,18 +318,7 @@
 			"HardpointSlot": 0,
 			"DamageLevel": "Functional",
 			"prefabName": null,
-			"hasPrefabName": false,
-			"LocalGUID":"target_Laser_1"
-		},
-		{
-			"MountedLocation": "RightArm",
-			"ComponentDefID": "Gear_Attachment_LaserPulseModule",
-			"ComponentDefType": "Upgrade",
-			"HardpointSlot": -1,
-			"DamageLevel": "Functional",
-			"prefabName": "",
-			"hasPrefabName": true,
-			"TargetComponentGUID":"target_Laser_1"
+			"hasPrefabName": false
 		}
 	],
 	"simGameMechPartCost": 0

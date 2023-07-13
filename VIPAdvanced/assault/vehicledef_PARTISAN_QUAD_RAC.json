@@ -89,64 +89,28 @@
 			"ComponentDefType": "Weapon",
 			"MountedLocation": "Turret",
 			"HardpointSlot": 0,
-			"DamageLevel": "Functional",
-			"LocalGUID":"target_RAC2_1"
-		},
-		{
-			"MountedLocation": "Turret",
-			"ComponentDefID": "Gear_Attachment_AutocannonFCS",
-			"ComponentDefType": "Upgrade",
-			"HardpointSlot": -1,
-			"DamageLevel": "Functional",
-			"TargetComponentGUID":"target_RAC2_1"
+			"DamageLevel": "Functional"
 		},
 		{
 			"ComponentDefID": "Weapon_Autocannon_RAC2_0-Mydron",
 			"ComponentDefType": "Weapon",
 			"MountedLocation": "Turret",
 			"HardpointSlot": 1,
-			"DamageLevel": "Functional",
-			"LocalGUID":"target_RAC2_2"
-		},
-		{
-			"MountedLocation": "Turret",
-			"ComponentDefID": "Gear_Attachment_AutocannonFCS",
-			"ComponentDefType": "Upgrade",
-			"HardpointSlot": -1,
-			"DamageLevel": "Functional",
-			"TargetComponentGUID":"target_RAC2_2"
+			"DamageLevel": "Functional"
 		},
 		{
 			"ComponentDefID": "Weapon_Autocannon_RAC2_0-Mydron",
 			"ComponentDefType": "Weapon",
 			"MountedLocation": "Turret",
 			"HardpointSlot": 2,
-			"DamageLevel": "Functional",
-			"LocalGUID":"target_RAC2_3"
-		},
-		{
-			"MountedLocation": "Turret",
-			"ComponentDefID": "Gear_Attachment_AutocannonFCS",
-			"ComponentDefType": "Upgrade",
-			"HardpointSlot": -1,
-			"DamageLevel": "Functional",
-			"TargetComponentGUID":"target_RAC2_3"
+			"DamageLevel": "Functional"
 		},
 		{
 			"ComponentDefID": "Weapon_Autocannon_RAC2_0-Mydron",
 			"ComponentDefType": "Weapon",
 			"MountedLocation": "Turret",
 			"HardpointSlot": 3,
-			"DamageLevel": "Functional",
-			"LocalGUID":"target_RAC2_4"
-		},
-		{
-			"MountedLocation": "Turret",
-			"ComponentDefID": "Gear_Attachment_AutocannonFCS",
-			"ComponentDefType": "Upgrade",
-			"HardpointSlot": -1,
-			"DamageLevel": "Functional",
-			"TargetComponentGUID":"target_RAC2_4"
+			"DamageLevel": "Functional"
 		},
 		{
 			"ComponentDefID": "Gear_C3",
