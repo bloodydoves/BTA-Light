@@ -10,7 +10,7 @@
 	"showAdditionalArgoUpgrades": true,
 	"enable4thCategory": false,
 	"argoUpgradeName": "Command & Control",
-	"argoUpgradeCategory1Name": "Mech and BA Control",
+	"argoUpgradeCategory1Name": "Mech Control",
 	"argoUpgradeCategory2Name": "Tank Control",
 	"argoUpgradeCategory3Name": "Drop Tonnage",
 	"argoUpgradeCategory4Name": "Drop Information",
@@ -19,11 +19,11 @@
 	"CuV2InitialSlots" : [
 		"default_omni_slot",
 		"default_omni_slot",
-		"default_mech_slot",
-		"default_mech_slot",
+		"default_omni_slot",
+		"default_omni_slot",
 		"default_mech_tank_slot",
 		"default_mech_tank_slot",
-		"default_ba_slot",
-		"default_ba_slot"
+		"default_mech_tank_slot",
+		"default_mech_tank_slot"
 	]
 }
