@@ -1565,7 +1565,7 @@
 						"customUnitName": "Grim Sybil",
 						"customHeraldryDefId": "",
 						"unitType": "Mech",
-						"unitDefId": "mechdef_corsair_COR-4A",
+						"unitDefId": "mechdef_orion_ON1-V",
 						"unitTagSet": {
 							"items": [],
 							"tagSetSourceFile": ""
