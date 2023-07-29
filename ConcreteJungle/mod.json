@@ -30,7 +30,6 @@
 			"ChancePerActor": 0.05,
 			"SearchRadius": 250.0,
 			"AmbushWeights": [
-				"BattleArmor",
 				"Infantry",
 				"Infantry",
 				"Mech",
@@ -331,100 +330,29 @@
 			]
 		},
 		"BattleArmorAmbush": {
-			"Enabled": true,
-			"FreeAttackEnabled": true,
+			"Enabled": false,
+			"FreeAttackEnabled": false,
 			"Ambushes": [
 				{
 					"MinDifficulty": 1,
 					"MaxDifficulty": 4,
 					"MinSpawns": 1,
 					"MaxSpawns": 2,
-					"SpawnPool": [
-						{
-							"MechDefId": "mechdef_ba_is_standard",
-							"PilotDefId": "pilot_d3_gunner"
-						},
-						{
-							"MechDefId": "mechdef_ba_achilles",
-							"PilotDefId": "pilot_d3_gunner"
-						},
-						{
-							"MechDefId": "mechdef_ba_asterion",
-							"PilotDefId": "pilot_d3_gunner"
-						},
-						{
-							"MechDefId": "mechdef_ba_rottweiler",
-							"PilotDefId": "pilot_d3_gunner"
-						},
-						{
-							"MechDefId": "mechdef_ba_salamander",
-							"PilotDefId": "pilot_d3_gunner"
-						}
-					]
+					"SpawnPool": []
 				},
 				{
 					"MinDifficulty": 5,
 					"MaxDifficulty": 7,
 					"MinSpawns": 2,
 					"MaxSpawns": 3,
-					"SpawnPool": [
-						{
-							"MechDefId": "mechdef_ba_achilles",
-							"PilotDefId": "pilot_d5_gunner"
-						},
-						{
-							"MechDefId": "mechdef_ba_infiltratormkii",
-							"PilotDefId": "pilot_d5_gunner"
-						},
-						{
-							"MechDefId": "mechdef_ba_void",
-							"PilotDefId": "pilot_d5_gunner"
-						},
-						{
-							"MechDefId": "mechdef_ba_yinglong",
-							"PilotDefId": "pilot_d5_gunner"
-						},
-						{
-							"MechDefId": "mechdef_ba_phalanx",
-							"PilotDefId": "pilot_d5_gunner"
-						},
-						{
-							"MechDefId": "mechdef_ba_gnome",
-							"PilotDefId": "pilot_d5_gunner"
-						}
-					]
+					"SpawnPool": []
 				},
 				{
 					"MinDifficulty": 8,
 					"MaxDifficulty": 11,
 					"MinSpawns": 3,
 					"MaxSpawns": 4,
-					"SpawnPool": [
-						{
-							"MechDefId": "mechdef_ba_ravager",
-							"PilotDefId": "pilot_d7_gladiator"
-						},
-						{
-							"MechDefId": "mechdef_ba_kanazuchi",
-							"PilotDefId": "pilot_d7_gladiator"
-						},
-						{
-							"MechDefId": "mechdef_ba_grenadier",
-							"PilotDefId": "pilot_d7_gladiator"
-						},
-						{
-							"MechDefId": "mechdef_ba_marauder",
-							"PilotDefId": "pilot_d7_gladiator"
-						},
-						{
-							"MechDefId": "mechdef_ba_raiden",
-							"PilotDefId": "pilot_d7_gladiator"
-						},
-						{
-							"MechDefId": "mechdef_ba_tengu",
-							"PilotDefId": "pilot_d7_gladiator"
-						}
-					]
+					"SpawnPool": []
 				}
 			]
 		},
@@ -443,15 +371,11 @@
 							"PilotDefId": "pilot_d3_gunner"
 						},
 						{
-							"MechDefId": "mechdef_urbanmech_UM-R60",
+							"MechDefId": "mechdef_urbanmech_UM-R63",
 							"PilotDefId": "pilot_d3_gunner"
 						},
 						{
 							"MechDefId": "mechdef_urbanmech_UM-R60L",
-							"PilotDefId": "pilot_d3_gunner"
-						},
-						{
-							"MechDefId": "mechdef_urbanmech_UM-R90",
 							"PilotDefId": "pilot_d3_gunner"
 						},
 						{
@@ -525,10 +449,6 @@
 						{
 							"MechDefId": "mechdef_victor_VTR-9B",
 							"PilotDefId": "pilot_d7_sentinel"
-						},
-						{
-							"MechDefId": "mechdef_urbanmech_UM-R25",
-							"PilotDefId": "pilot_d5_gunner"
 						},
 						{
 							"MechDefId": "mechdef_hunchback_HBK-4P",
