@@ -63,7 +63,7 @@
 				},
 				{
 					"Type": "Mech_AddRoster",
-					"value": "mechdef_corsair_COR-PL",
+					"value": "mechdef_berserker_BRZ-A3",
 					"valueConstant": null,
 					"additionalValues": null
 				}
@@ -427,7 +427,7 @@
 						"customUnitName": null,
 						"customHeraldryDefId": "",
 						"unitType": "Mech",
-						"unitDefId": "mechdef_corsair_COR-PL",
+						"unitDefId": "mechdef_berserker_BRZ-A3",
 						"unitTagSet": {
 							"items": [],
 							"tagSetSourceFile": "tags/UnitTags"
