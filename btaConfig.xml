@@ -3,13 +3,13 @@
 	<BtaMode>2</BtaMode>
 	<RequiredBattleTechVersion>1.9.1</RequiredBattleTechVersion>
 	<RequiredLauncherVersion>1.2.0</RequiredLauncherVersion>
-	<SecureHash>FtEWChZgFlEWghb1FkgWthZhFo8WiRZwFuEWORZVFs8=</SecureHash>
+	<SecureHash>FtEW2xZYFnYWnxb1FjcWEhYVFuUWnhaNFpYWbxZDFoM=</SecureHash>
 	<showCoreItems>true</showCoreItems>
 	<Tasks>
 		<InstallTask>
 			<Id>coreInstall</Id>
 			<canSelect>false</canSelect>
-			<excludePaths>btaConfig.xml,.git,.modtek,.git,log.txt,Flashpoint DLC Flashpoints,Flashpoint Unit Module,FlashpointEnabler,Heavy Metal Equipment Module,Heavy Metal Flashpoint Module,Heavy Metal Sanctuary Worlds Units,Heavy Metal Unit Module,Urban Warfare Flashpoints,Urban Warfare Unit Module,DefaultFire,LinuxFire,RogueTechPerfFix,Community Content</excludePaths>
+			<excludePaths>btaConfig.xml,.git,.modtek,.git,log.txt,Flashpoint DLC Flashpoints,Flashpoint Unit Module,FlashpointEnabler,Heavy Metal Equipment Module,Heavy Metal Flashpoint Module,Heavy Metal Sanctuary Worlds Units,Heavy Metal Unit Module,Urban Warfare Flashpoints,Urban Warfare Unit Module,DefaultFire,LinuxFire,RogueTechPerfFix</excludePaths>
 			<isSelected>true</isSelected>
 			<jobOrder>0</jobOrder>
 			<jobType>Install</jobType>
@@ -19,7 +19,7 @@
 			<sourcePath/>
 			<targetPath/>
 			<uiDescription/>
-			<uiName>BTAdvanced Core</uiName>
+			<uiName>BTA Light Core</uiName>
 		</InstallTask>
 		<InstallTask>
 			<Id>BTAFlashPointModule</Id>
@@ -65,21 +65,6 @@
 			<targetPath>Heavy Metal Equipment Module, Heavy Metal Flashpoint Module, Heavy Metal Sanctuary Worlds Units, Heavy Metal Unit Module, FlashpointEnabler</targetPath>
 			<uiDescription>Adds additional Flashpoints, units and equipment based on the Heavy Metal DLC</uiDescription>
 			<uiName>Heavy Metal</uiName>
-		</InstallTask>
-		<InstallTask>
-			<Id>btaCommunityContent</Id>
-			<canSelect>true</canSelect>
-			<excludePaths>log.txt</excludePaths>
-			<isSelected>false</isSelected>
-			<jobOrder>0</jobOrder>
-			<jobType>Install</jobType>
-			<optionGroupId>AdditionalOptions</optionGroupId>
-			<promptConfirmation>false</promptConfirmation>
-			<promptText/>
-			<sourcePath>Community Content</sourcePath>
-			<targetPath>Community Content</targetPath>
-			<uiDescription>BattleTech Advanced 3062 Community Content, not guaranteed to be lore-friendly or balanced in any way at all, purely optional, the DLC Modules to be installed.</uiDescription>
-			<uiName>BTA Community Content - Optional</uiName>
 		</InstallTask>
 		<InstallTask>
 			<Id>modtekInstall</Id>
@@ -178,12 +163,6 @@
 			<optionId>DLC</optionId>
 			<optionType>MultiSelectOption</optionType>
 			<optionUiName>DLC Modules - Only use when you have it!</optionUiName>
-		</InstallOption>
-		<InstallOption>
-			<optionDescription/>
-			<optionId>AdditionalOptions</optionId>
-			<optionType>MultiSelectOption</optionType>
-			<optionUiName>Additional Options</optionUiName>
 		</InstallOption>
 		<InstallOption>
 			<optionDescription/>
