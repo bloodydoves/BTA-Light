@@ -2,8 +2,8 @@
 <BtaConfig>
 	<BtaMode>2</BtaMode>
 	<RequiredBattleTechVersion>1.9.1</RequiredBattleTechVersion>
-	<RequiredLauncherVersion>1.2.9</RequiredLauncherVersion>
-	<SecureHash>FocWKRYdFicWzBavFo0W0xb6FkkWJhY5FlIWPRZiFrI=</SecureHash>
+	<RequiredLauncherVersion>1.2.0</RequiredLauncherVersion>
+	<SecureHash>FtEWChZgFlEWghb1FkgWthZhFo8WiRZwFuEWORZVFs8=</SecureHash>
 	<showCoreItems>true</showCoreItems>
 	<Tasks>
 		<InstallTask>
