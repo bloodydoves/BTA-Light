@@ -8,6 +8,6 @@
 	"DLL": "NewSaveFolder.dll",
 	"DLLEntryPoint": "NewSaveFolder.Control.Start",
 	"Settings": {
-		"Path": "BTASaves"
+		"Path": "BTALightSaves"
 	}
 }
