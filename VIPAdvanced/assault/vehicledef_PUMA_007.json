@@ -96,13 +96,6 @@
             "DamageLevel": "Functional"
         },
         {
-            "MountedLocation": "Front",
-            "ComponentDefID": "Gear_B_Pod",
-            "ComponentDefType": "Upgrade",
-            "HardpointSlot": 0,
-            "DamageLevel": "Functional"
-        },
-        {
             "MountedLocation": "Left",
             "ComponentDefID": "Weapon_MML_7",
             "ComponentDefType": "Weapon",
