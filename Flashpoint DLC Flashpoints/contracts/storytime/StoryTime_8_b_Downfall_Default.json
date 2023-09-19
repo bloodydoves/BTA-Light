@@ -1060,7 +1060,7 @@
 						"customUnitName": "",
 						"customHeraldryDefId": "",
 						"unitType": "Mech",
-						"unitDefId": "mechdef_mauler_MAL-2K",
+						"unitDefId": "mechdef_mauler_MAL-2R",
 						"unitTagSet": {
 							"items": [
 								"unit_assault",
@@ -1132,7 +1132,7 @@
 						"customUnitName": "",
 						"customHeraldryDefId": "",
 						"unitType": "Mech",
-						"unitDefId": "mechdef_mackie_MSK-10J",
+						"unitDefId": "mechdef_devastator_DVS-2",
 						"unitTagSet": {
 							"items": [
 								"unit_assault",
