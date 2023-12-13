@@ -13,15 +13,14 @@
 			"StabilityDamagePerAmmo": 2
 		},
 		"BonusDescriptions": [
-				"LRMDamage: +1",
-				"StabDamage: +1",
-				"Range: -40%",
-				"MinRange: -180",
-				"WpnAccuracy: -1",
-				"NoIndirect",
-				"CostPerShot: 80",
-				"AmmoCount: 120"
-			],
+			"LRMDamage: +1",
+			"Range: -40%",
+			"MinRange: -180",
+			"WpnAccuracy: -1",
+			"NoIndirect",
+			"CostPerShot: 80",
+			"AmmoCount: 120"
+		],
 		"Flags": [
 			"not_broken"
 		],
@@ -41,7 +40,7 @@
 		"Id": "Ammo_AmmunitionBox_Deadfire_LRM",
 		"Name": "LRM Deadfire Ammo",
 		"Details": "Deadfire LRM's trade any advanced guidance system, reducing range and accuracy, for a bigger payload and reduced minimum range. Has 120 shots.",
-		"Icon": "MRM"
+		"Icon": "MRM-ammo"
 	},
 	"BonusValueA": "+50% Dmg&Stab|-50% Range|",
 	"BonusValueB": "-4Indirect Accuracy.",

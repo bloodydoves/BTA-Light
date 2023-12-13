@@ -12,10 +12,10 @@
 			"ExplosionDamagePerAmmo": 5
 		},
 		"BonusDescriptions": [
-				"Acid: 20%",
-				"CostPerShot: 10",
-				"AmmoCount: 10"
-			],
+			"AcidStack: 5%, 4",
+			"CostPerShot: 10",
+			"AmmoCount: 10"
+		],
 		"AmmoCost": {
 			"PerUnitCost": 10
 		}
@@ -32,7 +32,7 @@
 		"Id": "Ammo_AmmunitionBox_Corrosive_Fluid",
 		"Name": "Corrosive Fluid Ammo",
 		"Details": "Fluid Gun Ammo Bins contain the fuel for Fluid Gun operation. On a Critical Hit, the container will explode dealing damage to the install location. Risk can be mitigated with the use of C.A.S.E. \n\n <b><color=#00ffff>Contains 10 shots.</color> </b>",
-		"Icon": "showerhead"
+		"Icon": "showerhead-ammo"
 	},
 	"BonusValueA": "",
 	"BonusValueB": "",
