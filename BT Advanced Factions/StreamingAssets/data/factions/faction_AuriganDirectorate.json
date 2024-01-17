@@ -18,11 +18,7 @@
 		"AuriganPirates",
 		"Mercenaries",
 		"CalderonProtectorate",
-		"FroncReaches",
-		"SanctuaryAlliance",
-		"MallardRepublic",
-		"JacobsonHaven",
-		"DaneSacellum"
+		"FroncReaches"
 	],
 	"Presence": 2,
 	"factionID": "AuriganDirectorate",
