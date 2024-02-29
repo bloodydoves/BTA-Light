@@ -7,9 +7,15 @@
 	"Author": "The BTA Team",
 	"DependsOn": [
 		"CAB-Misc",
-		"CAB-Clan Mech",
-		"CAB-IS Mech",
-		"CAB-Tanks"
+		"CAB-Tanks",
+		"CAB-3025",
+		"CAB-Clan-GoldenCentury",
+		"CAB-Clan-Modern",
+		"CAB-IS-CivilWar",
+		"CAB-IS-ClanInvasion",
+		"CAB-IS-Customs",
+		"CAB-IS-DarkAge",
+		"CAB-IS-StarLeague"
 	],
 	"DataAddendumEntries": [
 		{
