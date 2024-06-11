@@ -55,10 +55,10 @@
 		{
 			"DamageLevel": "Functional",
 			"Location": "LeftTorso",
-			"CurrentArmor": 115,
+			"CurrentArmor": 135,
 			"CurrentRearArmor": 35,
 			"CurrentInternalStructure": 75,
-			"AssignedArmor": 115,
+			"AssignedArmor": 135,
 			"AssignedRearArmor": 35
 		},
 		{
@@ -73,10 +73,10 @@
 		{
 			"DamageLevel": "Functional",
 			"Location": "RightTorso",
-			"CurrentArmor": 115,
+			"CurrentArmor": 135,
 			"CurrentRearArmor": 35,
 			"CurrentInternalStructure": 75,
-			"AssignedArmor": 115,
+			"AssignedArmor": 135,
 			"AssignedRearArmor": 35
 		},
 		{
@@ -350,7 +350,7 @@
 		},
 		{
 			"MountedLocation": "Head",
-			"ComponentDefID": "Gear_TargetingTrackingSystem_TargetingComputer_Heavy",
+			"ComponentDefID": "Gear_TTS_AdvancedTC",
 			"SimGameUID": null,
 			"ComponentDefType": "Upgrade",
 			"HardpointSlot": -1,
@@ -498,6 +498,28 @@
 			"ComponentDefID": "Weapon_PPC_PPCER_0-STOCK",
 			"SimGameUID": null,
 			"ComponentDefType": "Weapon",
+			"HardpointSlot": 0,
+			"GUID": null,
+			"DamageLevel": "Functional",
+			"prefabName": null,
+			"hasPrefabName": false
+		},
+		{
+			"MountedLocation": "LeftTorso",
+			"ComponentDefID": "Gear_HeatSink_Generic_Double",
+			"SimGameUID": null,
+			"ComponentDefType": "HeatSink",
+			"HardpointSlot": 0,
+			"GUID": null,
+			"DamageLevel": "Functional",
+			"prefabName": null,
+			"hasPrefabName": false
+		},
+		{
+			"MountedLocation": "LeftArm",
+			"ComponentDefID": "Gear_HeatSink_Generic_Double",
+			"SimGameUID": null,
+			"ComponentDefType": "HeatSink",
 			"HardpointSlot": 0,
 			"GUID": null,
 			"DamageLevel": "Functional",
